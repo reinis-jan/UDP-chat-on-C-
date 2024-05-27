@@ -12,13 +12,13 @@ class Sender
         {
             udpClient.Connect("127.0.0.1", 11000);
 
-            Console.Write("Enter text to send: ");
+            Console.Write("Ievadiet tekstu, ko sūtīsiet:");
             string message = Console.ReadLine();
 
             byte[] sendBytes = Encoding.ASCII.GetBytes(message);
             udpClient.Send(sendBytes, sendBytes.Length);
 
-            Console.WriteLine("Message sent to the Receiver.");
+            Console.WriteLine("Ziņa veiksmīgi nosutīta");
         }
         catch (Exception e)
         {
