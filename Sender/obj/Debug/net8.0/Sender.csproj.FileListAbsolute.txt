@@ -1,0 +1,15 @@
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\bin\Debug\net8.0\Sender.exe
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\bin\Debug\net8.0\Sender.deps.json
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\bin\Debug\net8.0\Sender.runtimeconfig.json
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\bin\Debug\net8.0\Sender.dll
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\bin\Debug\net8.0\Sender.pdb
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.AssemblyInfoInputs.cache
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.AssemblyInfo.cs
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.sourcelink.json
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.dll
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\refint\Sender.dll
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.pdb
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\Sender.genruntimeconfig.cache
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Sender\obj\Debug\net8.0\ref\Sender.dll

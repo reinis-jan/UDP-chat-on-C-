@@ -1,0 +1,15 @@
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\bin\Debug\net8.0\Receiver.exe
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\bin\Debug\net8.0\Receiver.deps.json
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\bin\Debug\net8.0\Receiver.runtimeconfig.json
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\bin\Debug\net8.0\Receiver.dll
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\bin\Debug\net8.0\Receiver.pdb
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.AssemblyInfoInputs.cache
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.AssemblyInfo.cs
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.sourcelink.json
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.dll
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\refint\Receiver.dll
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.pdb
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\Receiver.genruntimeconfig.cache
+C:\Users\Reinis\Documents\GitHub\UDP-chat-on-C-\Receiver\obj\Debug\net8.0\ref\Receiver.dll

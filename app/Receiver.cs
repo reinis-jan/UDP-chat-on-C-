@@ -12,14 +12,14 @@ class Receiver
 
         try
         {
-            Console.WriteLine("Gaidam ziņas no sūtītāja");
+            Console.WriteLine("Waiting for messages...");
 
             while (true)
             {
                 byte[] receiveBytes = udpClient.Receive(ref remoteIpEndPoint);
                 string receiveData = Encoding.ASCII.GetString(receiveBytes);
 
-                Console.WriteLine($"Ir saņemta ziņa: {receiveData}");
+                Console.WriteLine($"Received message: {receiveData}");
             }
         }
         catch (Exception e)
